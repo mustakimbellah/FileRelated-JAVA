@@ -1,0 +1,8 @@
+/* This is a 
+for
+Prografor ...*/
+
+int a,b,sum; //for the variables
+float x,y,z; // operati..
+sum=a+b; //operation.
+return 0;
